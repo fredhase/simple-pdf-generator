@@ -3,4 +3,4 @@ A simple pdf generator about a project budget, using Jupyter. Made along the "Py
 
 This project requires the user to install fpdf at least once.
 
-This can be done by adding "!pip install fpdf" in a single cell, separated from the project's main cell.
+This can be done by adding "!pip install fpdf" in a single cell and the running this cell, separated from the project's main cell.
